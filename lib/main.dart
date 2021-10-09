@@ -166,6 +166,62 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(fontSize: 20),
                     ),
                   ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  Container(
+                    margin: EdgeInsets.all(10),
+                    child: Text(
+                      "Ini adalah teks yang ada ditengah dari stack",
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
                 ],
               )
             ],
