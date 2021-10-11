@@ -7,6 +7,8 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
+  void onPressed() {}
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -23,11 +25,11 @@ class MyApp extends StatelessWidget {
                 child: Row(
                   children: [
                     Flexible(
-                      child: Container(color: Colors.grey),
+                      child: Container(color: Colors.lightBlue),
                       flex: 1,
                     ),
                     Flexible(
-                      child: Container(color: Colors.white),
+                      child: Container(color: Colors.lightBlueAccent),
                       flex: 1,
                     ),
                   ],
@@ -37,11 +39,11 @@ class MyApp extends StatelessWidget {
                 child: Row(
                   children: [
                     Flexible(
-                      child: Container(color: Colors.white),
+                      child: Container(color: Colors.lightBlueAccent),
                       flex: 1,
                     ),
                     Flexible(
-                      child: Container(color: Colors.grey),
+                      child: Container(color: Colors.lightBlue),
                       flex: 1,
                     ),
                   ],
@@ -58,175 +60,186 @@ class MyApp extends StatelessWidget {
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                   Container(
                     margin: EdgeInsets.all(10),
                     child: Text(
                       "Ini adalah teks yang ada ditengah dari stack",
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white),
                     ),
                   ),
                 ],
               )
             ],
-          )
+          ),
           // button
+          Container(
+            child: Align(
+              alignment: Alignment(0, 0.93),
+              child: RaisedButton(
+                onPressed: onPressed,
+                child: Text("+"),
+                color: Colors.black,
+                textColor: Colors.white,
+              ),
+            ),
+          )
         ],
       ),
     ));
